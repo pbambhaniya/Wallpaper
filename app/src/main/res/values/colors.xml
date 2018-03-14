@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303F52</color>
+    <color name="colorPrimaryDark">#303F52</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000</color>
+    <color name="yello">#d2c836</color>
+    <color name="transpernt_black">#20a98f8f</color>
+    <color name="white">#fff</color>
+
+    <color name="colorMenuSelected">#bb6d6d</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+</resources>
